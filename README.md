@@ -1,3 +1,7 @@
+# 更新
+修复返回：`{"status": 200, "result": "", "msg": "module \'PIL.Image\' has no attribute \'ANTIALIAS\'"}`
+修改 `Dockerfile` 为清华源
+
 # ocr_api_server
 使用ddddocr的最简api搭建项目，支持docker
 
